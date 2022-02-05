@@ -1,3 +1,4 @@
+
 # Real estate case study. 
 
 Time to practice thinking like a Data Scientist. 
